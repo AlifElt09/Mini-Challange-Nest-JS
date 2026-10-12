@@ -12,8 +12,3 @@ class item {
     qty: number
 }
 
-export class CreateKasirDto [
-    @IsArray()
-    @IsNotEmpty()
-    
-]
